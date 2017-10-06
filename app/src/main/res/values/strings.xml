@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">MultiQuizPro</string>
+    <string name="question">Question</string>
+    <string name="check">CHECK</string>
+    <string name="correct">Very good!!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">NEXT</string>
+    <string name="finish">FINISH</string>
+    <string name="prev">PREVIOUS</string>
+    <string name="start_over">Start over</string>
+    <string name="results">Results</string>
+
+    <array name = "all_questions">
+        <item> What is the capital of Bhutan;Ouagadougou;Phnom Penh;*Thimphu;Zgighiti</item>
+        <item>What is the capital of Bhutan;Ouagadougou;Phnom Penh;Zgighiti;*Thimphu</item>
+        <item>What is the capital of Bhutan;Ouagadougou;*Thimphu;Zgighiti;Phnom Penh</item>
+        <item>What is the capital of Bhutan;*Thimphu;Ouagadougou;Zgighiti;Phnom Penh</item>
+    </array>
+</resources>
